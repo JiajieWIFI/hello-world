@@ -1,2 +1,2 @@
 # hello-world
-first dir
+come here to play
